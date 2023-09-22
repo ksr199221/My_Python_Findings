@@ -1,9 +1,9 @@
 # My_Python_Findings
-Python References:\
-https://automatetheboringstuff.com\
-https://www.learnpython.org\
-https://developers.google.com/edu/python\
-https://www.kaggle.com/learn/python\
+Python References: \
+https://automatetheboringstuff.com \
+https://www.learnpython.org \
+https://developers.google.com/edu/python \
+https://www.kaggle.com/learn/python \
 
 Python Basics:\
 
